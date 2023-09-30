@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #6391bd;
+    padding: 20px;
+  }
+ 
+  input[type="number"] {
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+ 
+  #resultado {
+    font-size: 18px;
+    margin-top: 10px;
+    color: aliceblue;
+  }
+  
+ 
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  #error {
+    color: red;
+    font-weight: bold;
+  }
+  
